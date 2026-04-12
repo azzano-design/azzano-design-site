@@ -1,4 +1,4 @@
-<img src="azzano-design-logo.jpg" alt="Azzano Design logo feature a leaf growing from a skull" width="200"/>
+<img src="Azzano-Design-Logo.jpg" alt="Azzano Design logo feature a leaf growing from a skull" width="200"/>
 
 # Azzano Design
 ## Azzano Design is the design practice of Brendan Azzano - with a focus on web, app and game development.
